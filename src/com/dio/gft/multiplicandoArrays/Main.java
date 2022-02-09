@@ -1,4 +1,4 @@
-package com.dio.gft.exercicio1;
+package com.dio.gft.multiplicandoArrays;
 
 public class Main {
     public static void main(String[] args) {
