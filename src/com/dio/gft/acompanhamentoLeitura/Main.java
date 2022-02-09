@@ -1,4 +1,4 @@
-package com.dio.gft.exercicio3;
+package com.dio.gft.acompanhamentoLeitura;
 
 public class Main {
     public static void main(String[] args) {

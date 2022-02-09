@@ -1,4 +1,4 @@
-package com.dio.gft.exercicio2;
+package com.dio.gft.PersonagensRPG;
 
 public class Main {
     public static void main(String[] args) {
