@@ -13,11 +13,10 @@ public class Personagem {
     private String nome;
     private int vida;
     private int mana;
-    private float Xp;
+    private float xp;
     private int inteligencia;
     private int forca;
     private int level;
-
 
     public void lvlUp(){
 
